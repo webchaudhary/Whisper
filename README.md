@@ -1,6 +1,5 @@
 # Whisper - A full-stack realtime messaging chat application
 
-A project to learn modern full-stack development made by Josh.
 
 ## Features
 
@@ -20,6 +19,7 @@ A project to learn modern full-stack development made by Josh.
 - Variants with class-variance-authority
 
 
+Video: https://www.youtube.com/watch?v=NlXfg5Pxxh8
 
 Data: Reddis
 https://upstash.com/
@@ -27,5 +27,6 @@ https://upstash.com/
 Google Auth
 https://console.cloud.google.com/
 
-realtime communication
-pusher.com
+Realtime communication
+https://pusher.com/
+
